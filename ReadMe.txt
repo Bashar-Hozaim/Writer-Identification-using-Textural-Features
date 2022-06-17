@@ -37,3 +37,7 @@ lpq_basic M script, was used to extract the local phase quantization
 ltp_image M script, was used to extract the local ternary patterns
 
 HOG M script, was used to extract the histogram of gradiants
+----------------------------------------------------------------------------
+Cite the code : 
+[![DOI](https://zenodo.org/badge/504630959.svg)](https://zenodo.org/badge/latestdoi/504630959)
+
