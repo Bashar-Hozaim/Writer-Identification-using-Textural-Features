@@ -1,5 +1,5 @@
-data.rar file contains the Arabic KHATT and English IAM handwritten connected components written by 500 scribes per each dataset.
-the files are already preproceesed and the connected component images are saved as a .MAT files. 
+Training_KHATT_Writers.mat, Testing_KHATT_Writers.mat, Training_IAM_Writers.mat, and Testing_IAM_Writers.mat files contain the Arabic KHATT and English IAM handwritten connected components written by 500 scribes per each dataset.
+the files are already preproceesed and the connected component images are saved as MAT files. 
 
 Raw datasets are fully accessible and freely available for reseraches purposes.
 IAM Dataset can be easily downloaded from the following link:
